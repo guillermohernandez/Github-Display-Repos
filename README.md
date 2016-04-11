@@ -1,7 +1,3 @@
-# Github-Display-Repos
-
-
-
 Github-Display-Repos
 ======
 **Github-Display-Repos** is a Wordpress plugin that displays your repositories from Github
